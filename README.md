@@ -2,13 +2,11 @@ Got you 👍
 Below is a **polished, high-quality, professional README** that looks **impressive on GitHub**, but is still **clear and not messy**.
 You can paste this **as-is** into `README.md`.
 
----
 
 # 🎓 arXiv Paper Classifier
 
 **AI-Powered Research Paper Categorization Platform**
 
----
 
 ## 📌 Overview
 
@@ -17,7 +15,6 @@ Users submit a paper’s **title and abstract**, and the system predicts the mos
 
 The project integrates **modern frontend design**, **secure authentication**, **admin management**, and a **CatBoost ML model** into a single end-to-end system.
 
----
 
 ## ✨ Key Features
 
@@ -46,7 +43,6 @@ The project integrates **modern frontend design**, **secure authentication**, **
 * Monitor user activity and classifications
 * Delete users securely (admin-only access)
 
----
 
 ## 🗂️ Supported Research Domains
 
@@ -56,7 +52,7 @@ The project integrates **modern frontend design**, **secure authentication**, **
 * 🧬 Biology & Health
 * 🧪 Chemistry & Materials
 
----
+
 
 ## 🛠️ Technology Stack
 
@@ -84,8 +80,6 @@ The project integrates **modern frontend design**, **secure authentication**, **
 
 * SQLite
 
----
-
 ## 📁 Project Structure
 
 ```
@@ -105,7 +99,6 @@ The project integrates **modern frontend design**, **secure authentication**, **
 ├── catboost_hybrid.cbm
 ```
 
----
 
 ## ▶️ How to Run
 
@@ -145,7 +138,6 @@ Password: admin123
 
 *(Change credentials after first login)*
 
----
 
 ## ⚠️ Important Notes
 
@@ -153,7 +145,6 @@ Password: admin123
 * Email credentials must be stored using environment variables
 * This project is intended for **learning and academic use**
 
----
 
 ## 🎯 Use Cases
 
@@ -162,7 +153,6 @@ Password: admin123
 * Flask full-stack application example
 * Final-year / mini project submission
 
----
 
 ## 📜 License
 
