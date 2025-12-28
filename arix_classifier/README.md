@@ -279,7 +279,6 @@ This project is licensed under the **Creative Commons Attribution–NoDerivative
 
 * Additional academic categories
 * PDF upload with automatic text extraction
-* Batch classification support
 * REST API for programmatic access
 * Advanced analytics and visualization
 * Export classification history
