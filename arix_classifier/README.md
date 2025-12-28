@@ -286,3 +286,5 @@ This project is licensed under the **Creative Commons Attribution–NoDerivative
 * arXiv API integration
 * Real-time model retraining
 * Docker-based deployment
+* Explainable AI (XAI) for model predictions
+* User feedback–driven continuous model improvement
